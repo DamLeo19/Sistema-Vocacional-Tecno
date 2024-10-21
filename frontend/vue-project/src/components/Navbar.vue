@@ -14,6 +14,12 @@
             <li class="nav-item">
               <router-link to="/login" class="nav-link">Inicio de Sesión</router-link>
             </li>
+            <li class="nav-item">
+              <router-link to="/intereses" class="nav-link">Intereses</router-link>
+            </li>
+            <li class="nav-item">
+              <router-link to="/intereses_usuario" class="nav-link">Intereses Usuario</router-link>
+            </li>
             <!-- Agrega más enlaces según sea necesario -->
           </ul>
         </div>
